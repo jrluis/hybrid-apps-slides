@@ -1,8 +1,8 @@
 var SLIDE_CONFIG = {
   // Slide settings
   settings: {
-    title: 'Title Goes Here<br>Up To Two Lines',
-    subtitle: 'Subtitle Goes Here',
+    title: 'Hybrid Applications',
+    subtitle: 'Native containers + Mobile Web',
     useBuilds: true, // Default: true. False will turn off slide animation builds.
     usePrettify: true, // Default: true
     enableSlideAreas: true, // Default: true. False turns off the click areas on either slide of the slides.
@@ -18,8 +18,8 @@ var SLIDE_CONFIG = {
 
   // Author information
   presenters: [{
-    name: 'Firstname Lastname',
-    company: 'Job Title, Byclosure',
+    name: 'João Luís',
+    company: 'Senior Software Developer, Byclosure',
     gplus: 'Your G+',
     twitter: 'YOUR TWITTER',
     www: 'YOUR WWW',
